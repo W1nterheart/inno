@@ -46,22 +46,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Result.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Result.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/database/Result.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="26" selection-start="503" selection-end="503" vertical-scroll-proportion="-13.076923">
+            <state line="20" column="26" selection-start="503" selection-end="532" vertical-scroll-proportion="0.6451613">
               <folding>
                 <element signature="e#6#160#0" expanded="true" />
-                <marker date="1376824000217" expanded="false" signature="1684:1701" placeholder="..." />
+                <marker date="1376824354537" expanded="false" signature="1713:1730" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Ajax.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Ajax.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Ajax.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="1" selection-start="1326" selection-end="1326" vertical-scroll-proportion="1.3851852">
+            <state line="50" column="1" selection-start="1326" selection-end="1326" vertical-scroll-proportion="-28.76923">
               <folding />
             </state>
           </provider>
@@ -283,8 +283,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1932" height="1040" extended-state="1" />
-    <editor active="false" />
+    <frame x="-8" y="0" width="1932" height="1040" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295583" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -293,7 +293,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25240642" sideWeight="0.6704417" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3295583" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3295583" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -385,7 +385,7 @@
         <state line="47" column="37" selection-start="1508" selection-end="1508" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#6#160#0" expanded="true" />
-            <marker date="1376824000217" expanded="false" signature="1684:1701" placeholder="..." />
+            <marker date="1376824354537" expanded="false" signature="1713:1730" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -446,20 +446,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/database/Result.php">
+    <entry file="file://$PROJECT_DIR$/Ajax.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="26" selection-start="503" selection-end="503" vertical-scroll-proportion="-13.076923">
-          <folding>
-            <element signature="e#6#160#0" expanded="true" />
-            <marker date="1376824000217" expanded="false" signature="1684:1701" placeholder="..." />
-          </folding>
+        <state line="50" column="1" selection-start="1326" selection-end="1326" vertical-scroll-proportion="-28.76923">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Ajax.php">
+    <entry file="file://$PROJECT_DIR$/resources/database/Result.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="1" selection-start="1326" selection-end="1326" vertical-scroll-proportion="1.3851852">
-          <folding />
+        <state line="20" column="26" selection-start="503" selection-end="532" vertical-scroll-proportion="0.6451613">
+          <folding>
+            <element signature="e#6#160#0" expanded="true" />
+            <marker date="1376824354537" expanded="false" signature="1713:1730" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -7,8 +7,8 @@
  * To change this template use File | Settings | File Templates.
  */
 
+//File for visual output(mostly) in HTML
 namespace Resources\Database;
-
 
 class Result {
 

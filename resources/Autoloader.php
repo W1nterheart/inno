@@ -7,7 +7,6 @@
  * To change this template use File | Settings | File Templates.
  */
 
-
 namespace Autoload;
 
 class Autoloader {
@@ -23,5 +22,6 @@ class Autoloader {
 
 }
 
+//Initializing from start of inclusion
 $autoloader = new Autoloader();
 ?>

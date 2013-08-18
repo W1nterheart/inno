@@ -5,7 +5,7 @@
     <ignored path="inno.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.php" changelist="48e06f88-13ca-4625-8c08-3a7714cdaeda" time="1376821497119" ignored="false" />
-    <file path="/Dummy.txt" changelist="48e06f88-13ca-4625-8c08-3a7714cdaeda" time="1376504246543" ignored="false" />
+    <file path="/Dummy.txt" changelist="48e06f88-13ca-4625-8c08-3a7714cdaeda" time="1376823836122" ignored="false" />
     <file path="/Main.php" changelist="48e06f88-13ca-4625-8c08-3a7714cdaeda" time="1376821764533" ignored="false" />
     <file path="/database.php" changelist="48e06f88-13ca-4625-8c08-3a7714cdaeda" time="1376504128616" ignored="false" />
     <file path="/a.dummy" changelist="48e06f88-13ca-4625-8c08-3a7714cdaeda" time="1376732428693" ignored="false" />
@@ -37,10 +37,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Database.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/database/Database.php">
+      <file leaf-file-name="Autoloader.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/Autoloader.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="61" selection-start="905" selection-end="905" vertical-scroll-proportion="0.38842976">
+            <state line="24" column="38" selection-start="501" selection-end="501" vertical-scroll-proportion="-11.769231">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Result.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/database/Result.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="26" selection-start="503" selection-end="503" vertical-scroll-proportion="-13.076923">
+              <folding>
+                <element signature="e#6#160#0" expanded="true" />
+                <marker date="1376824000217" expanded="false" signature="1684:1701" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ajax.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Ajax.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="50" column="1" selection-start="1326" selection-end="1326" vertical-scroll-proportion="1.3851852">
               <folding />
             </state>
           </provider>
@@ -53,12 +74,19 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/resources/dao/Connection.php" />
         <option value="$PROJECT_DIR$/resources/dao/Database.php" />
-        <option value="$PROJECT_DIR$/resources/Autoloader.php" />
         <option value="$PROJECT_DIR$/resources/database/Connection.php" />
         <option value="$PROJECT_DIR$/resources/templates/header.php" />
         <option value="$PROJECT_DIR$/resources/controllers/Main.php" />
@@ -69,20 +97,20 @@
         <option value="$PROJECT_DIR$/resources/Ajax.php" />
         <option value="$PROJECT_DIR$/assets/js/tools.js" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/resources/database/Result.php" />
-        <option value="$PROJECT_DIR$/Ajax.php" />
         <option value="$PROJECT_DIR$/resources/database/Database.php" />
+        <option value="$PROJECT_DIR$/resources/Autoloader.php" />
+        <option value="$PROJECT_DIR$/Ajax.php" />
+        <option value="$PROJECT_DIR$/resources/database/Result.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
-    <option name="y" value="-8" />
     <option name="width" value="1932" />
-    <option name="height" value="1056" />
+    <option name="height" value="1040" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -164,8 +192,29 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="269" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="298" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="292" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Confirmation" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="299" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="966" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="974" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="292" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="290" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
     <property name="FullScreen" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -187,6 +236,24 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="false">C:\Users\Exiri\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="48e06f88-13ca-4625-8c08-3a7714cdaeda" name="Default" comment="" />
@@ -195,20 +262,40 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1932" height="1056" extended-state="1" />
-    <editor active="true" />
+    <frame x="-8" y="0" width="1932" height="1040" extended-state="1" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295583" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25240642" sideWeight="0.67074525" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25240642" sideWeight="0.6704417" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3295583" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -249,9 +336,9 @@
     <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
     <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="false" />
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
-    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
     <option name="LIMIT_HISTORY" value="true" />
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="UPDATE_FILTER_SCOPE_NAME" />
@@ -297,7 +384,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="47" column="37" selection-start="1508" selection-end="1508" vertical-scroll-proportion="0.0">
           <folding>
-            <marker date="1376821722930" expanded="true" signature="-1:-1" placeholder="..." />
+            <element signature="e#6#160#0" expanded="true" />
+            <marker date="1376824000217" expanded="false" signature="1684:1701" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -314,13 +402,6 @@
         <state line="34" column="5" selection-start="1266" selection-end="1266" vertical-scroll-proportion="0.22077923" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/Autoloader.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="31" selection-start="495" selection-end="495" vertical-scroll-proportion="0.38134593">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/tools.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="3" selection-start="454" selection-end="454" vertical-scroll-proportion="0.4089347">
@@ -332,7 +413,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="0" selection-start="196" selection-end="196" vertical-scroll-proportion="0.20070839">
           <folding>
-            <element signature="e#6#159#0" expanded="true" />
+            <element signature="e#6#159#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -341,24 +422,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="35" selection-start="1015" selection-end="1030" vertical-scroll-proportion="0.5419126">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ajax.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="283" selection-end="283" vertical-scroll-proportion="-4.4615383">
-          <folding>
-            <element signature="e#6#160#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/database/Result.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="32" selection-start="635" selection-end="635" vertical-scroll-proportion="0.42805755">
-          <folding>
-            <marker date="1376821722930" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -371,7 +434,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/database/Database.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="61" selection-start="905" selection-end="905" vertical-scroll-proportion="0.38842976">
+        <state line="32" column="0" selection-start="843" selection-end="843" vertical-scroll-proportion="0.37545127">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/Autoloader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="38" selection-start="501" selection-end="501" vertical-scroll-proportion="-11.769231">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/database/Result.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="26" selection-start="503" selection-end="503" vertical-scroll-proportion="-13.076923">
+          <folding>
+            <element signature="e#6#160#0" expanded="true" />
+            <marker date="1376824000217" expanded="false" signature="1684:1701" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="1" selection-start="1326" selection-end="1326" vertical-scroll-proportion="1.3851852">
           <folding />
         </state>
       </provider>
